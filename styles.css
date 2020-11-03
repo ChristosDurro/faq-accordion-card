@@ -73,12 +73,12 @@ hr{
 }
 
 .box-desktop-img{
-  width: 60%;
+  width: 15%;
   height: auto;
   position: absolute;
-  right: 104%;
-  top: 250px;
-  z-index: 0;
+  right: 77%;
+  top: 520px;
+  z-index: 1;
 }
 
 .faq-section{
